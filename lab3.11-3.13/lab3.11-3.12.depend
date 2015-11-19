@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1447795631 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.12\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1444318518 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.12\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1447853890 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.12\convert.h
+	"sdt.h"
+
+1447853674 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.12\lab3.11.cpp
+	"sdt.h"
+	"convert.h"
+
+1447853552 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.12\structure.cpp
+	"convert.h"
+	"sdt.h"
+
+1447795631 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.13\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1444318518 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.13\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1447853890 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.13\convert.h
+	"sdt.h"
+
+1447854163 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.13\lab3.11.cpp
+	"sdt.h"
+	"convert.h"
+
+1447853552 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.11-3.13\structure.cpp
+	"convert.h"
+	"sdt.h"
+

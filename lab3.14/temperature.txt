@@ -1,0 +1,8 @@
+40C		313.15K		104F		
+26.85C		300K		80.33F		
+10.5556C	283.706K	51F		
+0C		273.15K		32F		
+
+Max temperature=40C
+Min temperature=0C
+Mean temperature=19.3514 

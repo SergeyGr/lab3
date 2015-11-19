@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1447171081 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.7\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1444318518 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.7\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1447171055 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.7\convert.h
+
+1447171055 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.7\lab3.7.cpp
+	"sdt.h"
+	"convert.h"
+
+1447171081 source:c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.7-3.8\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1444318518 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.7-3.8\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1447956219 c:\users\Сергей\desktop\учеба\5 сем\прога\laba3\lab3.7-3.8\convert.h
+
